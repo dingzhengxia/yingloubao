@@ -1,8 +1,8 @@
 package com.yingloubao.controller.order;
 
-import org.springframework.web.bind.annotation.ControllerAdvice;
+import org.springframework.stereotype.Controller;
 
-@ControllerAdvice
+@Controller
 public class Order
 {
 
